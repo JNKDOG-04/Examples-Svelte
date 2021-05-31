@@ -7,20 +7,20 @@
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+01.To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
 npx degit sveltejs/template svelte-app
 cd svelte-app
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-*Note Also install the git application, in case you have problems with "degit" when running it as a command line in your operating system's bash.*
+*Note that you will need to have [Node.js](https://nodejs.org) installed.
+Also install the git application, in case you have problems with "degit" when running it as a command line in your operating system's bash.*
 
 
 ## Get started
 
-Install the dependencies...
+02. Install the dependencies...
 
 ```bash
 cd svelte-app
