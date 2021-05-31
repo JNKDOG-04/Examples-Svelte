@@ -15,6 +15,7 @@ cd svelte-app
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
+*Note Also install the git application, in case you have problems with "degit" when running it as a command line in your operating system's bash.*
 
 
 ## Get started
