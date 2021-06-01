@@ -3,6 +3,8 @@
 ---
 
 # Piano tiles
+In this example you will see how to use STELVE to perform reactive programming.
+
 ## Steps
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
