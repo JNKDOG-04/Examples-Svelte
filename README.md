@@ -9,7 +9,7 @@ In this example you will see how to use STELVE to perform reactive programming.
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
-###01.To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+### 01.To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
 npx degit sveltejs/template svelte-app
@@ -22,7 +22,7 @@ Also install the git application, in case you have problems with "degit" when ru
 
 ## Get started
 
-###02.Install the dependencies...
+### 02.Install the dependencies...
 
 ```bash
 cd svelte-app
